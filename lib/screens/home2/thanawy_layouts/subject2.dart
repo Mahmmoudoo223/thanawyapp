@@ -116,7 +116,7 @@ class _Subject2State extends State<Subject2> {
                                               //       posts['image']),
                                               // ),
                                               SizedBox(
-                                                height: 70,
+                                                height: 60,
                                               ),
                                               Custom_Text(
                                                 text: posts['name'],
